@@ -6,7 +6,7 @@ The project analyses the rocket's altitude, velocity and mass as functions of ti
  Graph visualization using matplotlib.pyplot and FuncAnimation from matplotlib in order to animate the graphs.
  calculations were done using odeint from scipy.integrate for numerical solution of the differential equations and NumPy for other mathematical calculations and the creation of the time array.
  ## General physics and mathematics behind the rocket flight 
-
+https://github.com/Mario-Borilov-physics/Model-Rocket-Launch-Simulation/blob/main/Model_Rocket_Vertical_Launch_Simulation.pdf
  # How to run
  ```bash
  pip install matplotlib numpy scipy
