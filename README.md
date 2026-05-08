@@ -8,5 +8,6 @@ The project analyses the rocket's altitude, velocity and mass as functions of ti
  ## General physics and mathematics behind the rocket flight 
 
  # How to run
+ ```bash
  pip install matplotlib numpy scipy
  rocket_launch#2_26_04-2026.py
